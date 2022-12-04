@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvisinjapan
-- 👀 I’m interested in hard rock/metal music and language.
-- 🌱 I’m currently learning CSS and HTML.
+- 👀 I’m interested in hard rock/metal music and (human) language. I'm currently fronting a Deep Purple cover band in Tokyo.
+- 🌱 I’m currently learning CSS and HTML with #100devs. 
 - 💞️ I’m looking to find a study partner to grind together. 
 - 📫 To reach me, just drop me a DM here or on twitter (@Alvisyu1)
 
